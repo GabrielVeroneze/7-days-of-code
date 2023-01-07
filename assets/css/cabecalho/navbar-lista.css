@@ -1,5 +1,5 @@
 .navbar__lista {
     display: flex;
     justify-content: space-between;
-    width: calc(259.27px + (32px * 3));
+    width: calc(262.67px + (32px * 3));
 }
