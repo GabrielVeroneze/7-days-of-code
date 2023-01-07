@@ -1,0 +1,9 @@
+.navbar {
+    align-items: center;
+    display: grid;
+    font-weight: 500;
+    gap: 0 7.5rem;
+    grid-auto-flow: column;
+    grid-template-columns: max-content max-content 1fr;
+    padding: 1.625rem 0;
+}

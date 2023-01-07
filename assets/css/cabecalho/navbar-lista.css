@@ -1,0 +1,5 @@
+.navbar__lista {
+    display: flex;
+    justify-content: space-between;
+    width: calc(259.27px + (32px * 3));
+}

@@ -1,0 +1,30 @@
+@import url('../css/container.css');
+@import url('../css/cabecalho/navbar.css');
+@import url('../css/cabecalho/navbar-logo.css');
+@import url('../css/cabecalho/navbar-imagem.css');
+@import url('../css/cabecalho/navbar-texto.css');
+@import url('../css/cabecalho/navbar-lista.css');
+@import url('../css/cabecalho/navbar-link.css');
+@import url('../css/cabecalho/navbar-acesso.css');
+@import url('../css/cabecalho/navbar-botao.css');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --branco: #FFFFFF;
+    --cinza: #667085;
+    --cinza-escuro: #3A404E;
+    --vermelho: #8E2424;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+}
+
+a:hover {
+    cursor: pointer;
+}

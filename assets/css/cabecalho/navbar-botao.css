@@ -1,0 +1,14 @@
+.navbar__botao {
+    border-radius: 8px;
+    padding: 0.75rem 1.125rem;
+}
+
+.navbar__botao--vazio {
+    color: var(--cinza);
+    margin-right: 0.5rem;
+}
+
+.navbar__botao--preenchido {
+    color: var(--branco);
+    background-color: var(--vermelho);
+}
