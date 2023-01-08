@@ -1,0 +1,8 @@
+.cabecalho__titulo {
+    color: var(--azul-escuro);
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 60px;
+    margin-bottom: 2.25rem;
+}

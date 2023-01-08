@@ -1,0 +1,6 @@
+.cabecalho__subtitulo {
+    color: var(--vermelho);
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 1.5rem;
+}
