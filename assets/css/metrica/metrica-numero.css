@@ -1,0 +1,8 @@
+.metrica__numero {
+    color: var(--vermelho);
+    font-size: 3.75rem;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 72px;
+    margin-bottom: 0.75rem;
+}

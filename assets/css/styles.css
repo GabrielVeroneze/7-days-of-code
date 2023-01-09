@@ -7,10 +7,16 @@
 @import url('../css/cabecalho/navbar-link.css');
 @import url('../css/cabecalho/navbar-acesso.css');
 @import url('../css/cabecalho/navbar-botao.css');
+
 @import url('../css/cabecalho/cabecalho-sobre.css');
 @import url('../css/cabecalho/cabecalho-subtitulo.css');
 @import url('../css/cabecalho/cabecalho-titulo.css');
 @import url('../css/cabecalho/cabecalho-texto.css');
+
+@import url('../css/metrica/metrica.css');
+@import url('../css/metrica/metrica-numero.css');
+@import url('../css/metrica/metrica-titulo.css');
+@import url('../css/metrica/metrica-texto.css');
 
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
