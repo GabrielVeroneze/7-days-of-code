@@ -1,0 +1,10 @@
+.talentos__subtitulo {
+    background-color: var(--vermelho-transparente);
+    border-radius: 16px;
+    color: var(--vermelho);
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 1rem;
+    padding: 0.25rem 0.75rem;
+}
