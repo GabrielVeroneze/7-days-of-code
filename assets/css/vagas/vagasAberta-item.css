@@ -2,10 +2,10 @@
     border: 1px solid var(--cinza-claro);
     border-radius: 16px;
     display: grid;
+    gap: 2rem 1.5rem;
     grid-template-columns: auto 1fr;
     grid-template-areas: 
         'categoria categoria'
         'horario salario';
-    gap: 2rem 1.5rem;
     padding: 1.5rem 1.5rem 1.75rem;
 }
