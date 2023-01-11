@@ -1,0 +1,9 @@
+.vagas-aberta__lista {
+    display: grid;
+    gap: 1.5rem;
+    min-width: 768px;
+}
+
+.vagas-aberta__lista:first-of-type {
+    margin-bottom: 2rem;
+}

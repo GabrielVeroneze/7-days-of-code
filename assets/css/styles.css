@@ -25,6 +25,13 @@
 @import url('../css/vagas/talentos-texto.css');
 @import url('../css/vagas/talentos-imagem.css');
 
+@import url('../css/vagas/vagasAberta.css');
+@import url('../css/vagas/vagasAberta-grupo.css');
+@import url('../css/vagas/vagasAberta-lista.css');
+@import url('../css/vagas/vagasAberta-item.css');
+@import url('../css/vagas/vagasAberta-categoria.css');
+@import url('../css/vagas/vagasAberta-descricao.css');
+
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
@@ -32,6 +39,7 @@
     --azul-escuro: #101828;
     --branco: #FFFFFF;
     --cinza: #667085;
+    --cinza-claro: #EAECF0;
     --cinza-escuro: #3A404E;
     --vermelho: #8E2424;
     --vermelho-transparente: rgba(142, 36, 36, 0.05);

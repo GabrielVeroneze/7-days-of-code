@@ -1,0 +1,5 @@
+.vagas-aberta__descricao {
+    color: var(--cinza);
+    font-weight: 500;
+    line-height: 24px;
+}
