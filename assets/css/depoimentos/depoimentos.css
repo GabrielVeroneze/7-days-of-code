@@ -1,6 +1,7 @@
 .depoimentos {
     align-items: center;
     background-color: var(--fundo-depoimentos);
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
     margin-bottom: 6rem;
