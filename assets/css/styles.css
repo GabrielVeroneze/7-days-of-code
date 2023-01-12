@@ -33,6 +33,14 @@
 @import url('../css/vagas/vagasAberta-categoria.css');
 @import url('../css/vagas/vagasAberta-descricao.css');
 
+@import url('../css/depoimentos/depoimentos.css');
+@import url('../css/depoimentos/depoimentos-subtitulo.css');
+@import url('../css/depoimentos/depoimentos-citacao.css');
+@import url('../css/depoimentos/depoimentos-atribuicao.css');
+@import url('../css/depoimentos/depoimentos-avatar.css');
+@import url('../css/depoimentos/depoimentos-individuo.css');
+@import url('../css/depoimentos/depoimentos-oficio.css');
+
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
@@ -44,6 +52,8 @@
     --cinza-escuro: #3A404E;
     --vermelho: #8E2424;
     --vermelho-transparente: rgba(142, 36, 36, 0.05);
+
+    --fundo-depoimentos: rgba(196, 25, 25, 0.03);
 
     --fonte-principal: 'Inter', sans-serif;
 }

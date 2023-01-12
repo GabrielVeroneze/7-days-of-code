@@ -1,0 +1,6 @@
+.depoimentos__individuo {
+    color: var(--azul-escuro);
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 0.25rem;
+}
