@@ -1,0 +1,8 @@
+.rodape {
+    align-items: center;
+    background-color: var(--fundo-rodape);
+    display: flex;
+    flex-direction: column;
+    padding: 6rem;
+    text-align: center;
+}

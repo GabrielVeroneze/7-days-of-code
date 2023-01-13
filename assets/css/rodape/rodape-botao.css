@@ -1,0 +1,11 @@
+.rodape__botao {
+    background-color: var(--vermelho);
+    border: 1px solid var(--vermelho);
+    border-radius: 8px;
+    color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 0.75rem 1.25rem;
+}

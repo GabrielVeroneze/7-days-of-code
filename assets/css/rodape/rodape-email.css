@@ -1,0 +1,13 @@
+.rodape__email {
+    background-color: var(--branco);
+    border: 1px solid var(--borda-input);
+    border-radius: 8px;
+    color: var(--azul-escuro);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+    margin-right: 1rem;
+    padding: 0.75rem 0.875rem 0.75rem 1rem;
+    width: 360px;
+}

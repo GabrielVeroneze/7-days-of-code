@@ -41,6 +41,14 @@
 @import url('../css/depoimentos/depoimentos-individuo.css');
 @import url('../css/depoimentos/depoimentos-oficio.css');
 
+@import url('../css/rodape/rodape.css');
+@import url('../css/rodape/rodape-titulo.css');
+@import url('../css/rodape/rodape-texto.css');
+@import url('../css/rodape/rodape-formulario.css');
+@import url('../css/rodape/rodape-email.css');
+@import url('../css/rodape/rodape-botao.css');
+@import url('../css/rodape/rodape-direitos.css');
+
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
@@ -50,10 +58,14 @@
     --cinza: #667085;
     --cinza-claro: #EAECF0;
     --cinza-escuro: #3A404E;
+    --cinza-copyright: #98A2B3;
     --vermelho: #8E2424;
     --vermelho-transparente: rgba(142, 36, 36, 0.05);
 
     --fundo-depoimentos: rgba(196, 25, 25, 0.03);
+    --fundo-rodape: #F9FAFB;
+
+    --borda-input: #D0D5DD;
 
     --fonte-principal: 'Inter', sans-serif;
 }
